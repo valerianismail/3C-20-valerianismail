@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "676caabce0406dfcb64eeb8b"
+  },
+  "nama_anggota_pegadaian": "ias",
+  "barang_digadai": "emas"
+},
+{
+  "_id": {
+    "$oid": "676caaece0406dfcb64eeb8c"
+  },
+  "nama_anggota_pegadaian": "arki",
+  "barang_digadai": "perhiasan"
+}]

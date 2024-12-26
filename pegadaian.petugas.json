@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "676ca8f9e0406dfcb64eeb88"
+  },
+  "nama_petugas": "kanji",
+  "id_petugas": "2525522",
+  "umur": "30"
+},
+{
+  "_id": {
+    "$oid": "676ca960e0406dfcb64eeb89"
+  },
+  "nama_petugas": "gibran",
+  "id_petugas": "2525",
+  "umur": "34"
+},
+{
+  "_id": {
+    "$oid": "676ca999e0406dfcb64eeb8a"
+  },
+  "nama_petugas": "jalpa",
+  "id_petugas": "5555522",
+  "umur": "45"
+}]

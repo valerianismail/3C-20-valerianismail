@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "676ca7c8e0406dfcb64eeb86"
+  },
+  "nama_anggota": "ias",
+  "jumlah_tagihan": "2000000",
+  "NIK": "36363434",
+  "alamat": "ciputat"
+},
+{
+  "_id": {
+    "$oid": "676ca7ebe0406dfcb64eeb87"
+  },
+  "nama_anggota": "arki",
+  "jumlah_tagihan": "20000",
+  "NIK": "3636",
+  "alamat": "depok"
+}]
